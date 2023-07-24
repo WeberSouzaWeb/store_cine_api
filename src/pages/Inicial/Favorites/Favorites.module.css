@@ -1,0 +1,6 @@
+.container select {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20em;
+}
